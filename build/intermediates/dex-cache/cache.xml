@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/samforde/Documents/sam_forde_lab05-master/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c83fbde55c05bc186002d7ce3570d619c3d6ee1f">
+        <dex dex="/Users/samforde/Documents/sam_forde_lab05-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-gridlayout-v7-25.1.0_6887c98dc733799c32738ced25a543526f8ecc64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samforde/Documents/sam_forde_lab05-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/samforde/Documents/sam_forde_lab05-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_8e06f9b6b98e5a42369965259504f60ed85289e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samforde/Documents/sam_forde_lab05-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/samforde/Documents/sam_forde_lab05-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_6e65b847c88cf8b40b3c45dee8b88fdeb0d9b545/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samforde/Documents/sam_forde_lab05-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/samforde/Documents/sam_forde_lab05-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_38d94af4c51a72349cda6700751ce8f76f8d1e0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samforde/Documents/sam_forde_lab05-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e773f1137d716f8f6b820fd085e0d0403b9dfa19">
+        <dex dex="/Users/samforde/Documents/sam_forde_lab05-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5c182ae60ebccee31e2bee51ce5f1abf1edd6080/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samforde/Documents/sam_forde_lab05-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/samforde/Documents/sam_forde_lab05-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_b00903aad8c2bf9f5624d1c673d216603957e56c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samforde/Documents/sam_forde_lab05-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="79334435f653b507dd64f120572d49d9620bbf49">
+        <dex dex="/Users/samforde/Documents/sam_forde_lab05-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/org.puredata.android-pd-core-1.0.2_e359ff3457558ad766ed3c26e2b5c2e0f4f23667/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samforde/Documents/sam_forde_lab05-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/samforde/Documents/sam_forde_lab05-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_502a6520b24c8e091c7ce23be1cd726a192a17c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samforde/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/samforde/Documents/sam_forde_lab05-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_7b4e77d181eadae1927fff29527978595a466333/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samforde/Documents/sam_forde_lab05-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/samforde/Documents/sam_forde_lab05-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_47c89b0a29c02d0973d5173838856e942b8e44b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samforde/Documents/sam_forde_lab05-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/samforde/Documents/sam_forde_lab05-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_19862c012e16b4e05694dbbadc62eb8483e0e65f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samforde/Documents/sam_forde_lab05-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/samforde/Documents/sam_forde_lab05-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_f5316dc3323325229ed1e6eb226e82aad47ba94b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samforde/Documents/sam_forde_lab05-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/samforde/Documents/sam_forde_lab05-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_f2fcc34b7ce8a76c01278d7267dd1981d6c6bbb9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samforde/Documents/sam_forde_lab05-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f666dade96078ce0a512323eebd5098439e57203">
+        <dex dex="/Users/samforde/Documents/sam_forde_lab05-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a09ae462cce073a79734fd940f5592c96e4408e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/samforde/Documents/sam_forde_lab05-master/app/build/intermediates/exploded-aar/com.noisepages.nettoyeur/midi/1.0.0-rc1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a35b73ff5c4ab6af57b21c03b9b3aa234d816a7f">
+        <dex dex="/Users/samforde/Documents/sam_forde_lab05-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.noisepages.nettoyeur-midi-1.0.0-rc1_a52f81352b8401833433fa5c27a76901bc0bb206/classes.dex" />
+    </item>
+
+</items>
